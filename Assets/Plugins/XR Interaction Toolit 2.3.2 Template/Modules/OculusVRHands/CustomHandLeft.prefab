@@ -2043,7 +2043,7 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_Reference: {fileID: 4589367297414201906, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    m_Reference: {fileID: 4589367297414201906, guid: e94023dc5125e78448c17a731256035c, type: 3}
   triggerAction:
     m_UseReference: 1
     m_Action:
@@ -2055,7 +2055,7 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_Reference: {fileID: -2349762735199953304, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    m_Reference: {fileID: -2349762735199953304, guid: e94023dc5125e78448c17a731256035c, type: 3}
   indexAction:
     m_UseReference: 1
     m_Action:
@@ -2067,7 +2067,7 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_Reference: {fileID: -4809834400720754884, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    m_Reference: {fileID: -4809834400720754884, guid: e94023dc5125e78448c17a731256035c, type: 3}
   thumbAction:
     m_UseReference: 1
     m_Action:
@@ -2079,9 +2079,9 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_Reference: {fileID: 6080449758709183579, guid: c348712bda248c246b8c49b3db54643f, type: 3}
-  animator: {fileID: 95022414942611548}
-  speed: 4
+    m_Reference: {fileID: 6080449758709183579, guid: e94023dc5125e78448c17a731256035c, type: 3}
+  animator: {fileID: 0}
+  speed: 6
 --- !u!1 &1499970328959474
 GameObject:
   m_ObjectHideFlags: 0

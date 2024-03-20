@@ -2260,6 +2260,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_ActionAssets:
   - {fileID: -944628639613478452, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+  - {fileID: -944628639613478452, guid: e94023dc5125e78448c17a731256035c, type: 3}
 --- !u!143 &7177102848836421947
 CharacterController:
   m_ObjectHideFlags: 0
